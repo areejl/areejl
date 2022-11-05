@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Areej Data Analyst , Researcher at Kantar & RPA trainee at KAUST
 - 👀 I’m interested in Data science / Machine learning
-- ✨ Ask me about Data Analysis and Python
 - 🌱 I’m currently learning RPA 
 - 💞️ I’m looking to collaborate on Machine learning reserch 
 - 📫 How to reach me areejmalasiri@gmail.com  |  [LinkedIn](https://www.linkedin.com/in/areej-asiri-/)
